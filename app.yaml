@@ -5,6 +5,10 @@ threadsafe: true
 handlers:
 - url: /.*
   script: Scrape.app
+  
+handlers:
+- url: /lib/requests
+  script: Scrape.app
 
 handlers:
 - url: /requests
