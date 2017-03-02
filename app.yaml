@@ -5,3 +5,7 @@ threadsafe: true
 handlers:
 - url: .*
   script: Scrape.app
+
+handlers:
+- url: /mysql/connector
+  script: Scrape.app
