@@ -7,5 +7,13 @@ handlers:
   script: Scrape.app
 
 handlers:
+- url: /requests
+  script: Scrape.app
+
+handlers:
 - url: /mysql/connector
+  script: Scrape.app
+
+handlers:
+- url: /bs4/
   script: Scrape.app
