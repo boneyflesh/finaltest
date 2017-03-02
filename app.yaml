@@ -3,7 +3,7 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: .*
+- url: /.*
   script: Scrape.app
 
 handlers:
@@ -16,4 +16,20 @@ handlers:
 
 handlers:
 - url: /bs4/
+  script: Scrape.app
+  
+handlers:
+- url: /.*
+  script: Scrape.app
+
+handlers:
+- url: /.*/.*
+  script: Scrape.app
+  
+handlers:
+- url: /.*/.*/.*
+  script: Scrape.app
+  
+handlers:
+- url: /.*/.*/.*/.*
   script: Scrape.app
