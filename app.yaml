@@ -3,12 +3,9 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /.*
+- url: /
   script: Scrape.app
   
-handlers:
-- url: /.*
-  script: Scrape.app
   
 handlers:
 - url: /lib/requests
