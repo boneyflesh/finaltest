@@ -25,3 +25,11 @@ handlers:
 handlers:
 - url: /bs4/
   script: Scrape.app
+  
+handlers:
+- url: /lib/mysql/connector
+  script: Scrape.app
+
+handlers:
+- url: /lib/bs4/
+  script: Scrape.app
