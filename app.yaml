@@ -3,5 +3,34 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /.*
+- url: /
+  script: Scrape.app
+  
+handlers:
+- url: /lib
+  script: Scrape.app
+  
+  
+handlers:
+- url: /lib/requests
+  script: Scrape.app
+
+handlers:
+- url: /requests
+  script: Scrape.app
+
+handlers:
+- url: /mysql/connector
+  script: Scrape.app
+
+handlers:
+- url: /bs4/
+  script: Scrape.app
+  
+handlers:
+- url: /lib/mysql/connector
+  script: Scrape.app
+
+handlers:
+- url: /lib/bs4/
   script: Scrape.app
