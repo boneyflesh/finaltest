@@ -1,0 +1,16 @@
+gapic_google_cloud_vision_v1-0.15.2-py2.7-nspkg.pth,sha256=NP4LyHQFgz_bnJKGU5YQNzU7azh3Y2W3qZ6auTkduhQ,6208
+gapic_google_cloud_vision_v1-0.15.2.dist-info/DESCRIPTION.rst,sha256=xggyxEA9IJiSgJGf9DkkBJv2yUxa4R7v1A5VCQyPZQ4,2338
+gapic_google_cloud_vision_v1-0.15.2.dist-info/METADATA,sha256=PTne-8tFATu_g420mKs55UUzt3KXXBPm0YYzUXPY6Ho,3496
+gapic_google_cloud_vision_v1-0.15.2.dist-info/RECORD,,
+gapic_google_cloud_vision_v1-0.15.2.dist-info/WHEEL,sha256=ZjEnM9ajJj3CC6PFLEd3wiDD9cvgsTK9wvIqII7XxRs,98
+gapic_google_cloud_vision_v1-0.15.2.dist-info/metadata.json,sha256=HWre7JovtrqhEEBqQGrHhCHB3HaabcoxE1SeR5NWJMA,1157
+gapic_google_cloud_vision_v1-0.15.2.dist-info/namespace_packages.txt,sha256=ngsx9QsTpW_MIqr3jS4p8H_K6J4qT-cj0obnFPt1hMY,65
+gapic_google_cloud_vision_v1-0.15.2.dist-info/top_level.txt,sha256=_1QvSJIhFAGfxb79D6DhB7SUw2X6T4rwnz_LLrbcD3c,7
+google/cloud/gapic/vision/v1/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+google/cloud/gapic/vision/v1/enums.py,sha256=i0bMeKn34wLzQsbyhHttiEfAy7nhR5sRihPAM-l6zqw,7739
+google/cloud/gapic/vision/v1/image_annotator_client.py,sha256=LMiZkMdsSWWRWVEonY3I_6ath0u4ibc95lFXdOZcefQ,7597
+google/cloud/gapic/vision/v1/image_annotator_client_config.json,sha256=7kBFr_uf9KIIQlvhsctsrcYsmESaJFtL3j4HYtmeGW8,785
+gapic_google_cloud_vision_v1-0.15.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+google/cloud/gapic/vision/v1/image_annotator_client.pyc,,
+google/cloud/gapic/vision/v1/__init__.pyc,,
+google/cloud/gapic/vision/v1/enums.pyc,,
